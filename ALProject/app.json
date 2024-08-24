@@ -1,0 +1,58 @@
+{
+    "id": "c5198120-4e2a-44f8-904b-17925ee1a1d9",
+    "name": "Training",
+    "publisher": "Bikash",
+    "version": "1.0.0.3",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "7C7D97CA-3598-40F5-B263-F713F49BD2A5",
+            "name": "Dynamics GP Historical Data",
+            "publisher": "Microsoft",
+            "version": "23.4.15643.15806"
+        },
+        {
+            "id": "E868AD92-21B8-4E08-AF2B-8975A8B06E04",
+            "name": "Image Analyzer",
+            "publisher": "Microsoft",
+            "version": "23.4.15643.15806"
+        },
+        {
+            "id": "EC255F57-31D0-4CA2-B751-F2FA7C745ABB",
+            "name": "Shopify Connector",
+            "publisher": "Microsoft",
+            "version": "23.4.15643.15806"
+        },
+        {
+            "id": "C526B3E9-B8CA-4683-81BA-FCD5F6B1472A",
+            "name": "Sales and Inventory Forecast",
+            "publisher": "Microsoft",
+            "version": "23.4.15643.15806"
+        }
+        
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "23.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "12.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
